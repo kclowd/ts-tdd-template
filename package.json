@@ -1,0 +1,27 @@
+{
+  "name": "ts-tdd-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kclowd/ts-tdd-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kclowd/ts-tdd-template/issues"
+  },
+  "homepage": "https://github.com/kclowd/ts-tdd-template#readme",
+  "devDependencies": {
+    "@types/jest": "^27.5.0",
+    "jest": "^28.0.3",
+    "ts-jest": "^28.0.1",
+    "typescript": "^4.6.4"
+  }
+}
