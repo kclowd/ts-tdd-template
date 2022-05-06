@@ -1,2 +1,2 @@
 # ts-tdd-template
-A basic TypeScript and Jest project that can easily be forked for various practice projects.
+A basic TypeScript and Jest project that can easily be cloned for various practice projects.
